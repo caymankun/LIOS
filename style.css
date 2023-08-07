@@ -17,4 +17,6 @@ nav{
 #msw{
     height: 100px;
     width: auto;
+    margin: 0 auto;
+    display: block;
 }
